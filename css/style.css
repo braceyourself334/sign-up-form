@@ -26,6 +26,7 @@ body {
   padding: 1rem;
   background: rgba(0, 0, 0, 0.85);
   color: #fff;
+  font-size: small;
 }
 
 .credits > a,
